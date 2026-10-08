@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Sobre mim<br><br>Olá! Eu sou o Samuel, apaixonado por tecnologia e pelo desenvolvimento de software. Gosto de criar soluções que facilitem o dia a dia, transformando ideias em projetos funcionais, intuitivos e eficientes.<br><br>Estou sempre buscando aprender, aprimorar meus conhecimentos e explorar novas possibilidades na área de tecnologia. Encaro cada desafio como uma oportunidade de evoluir e desenvolver novas habilidades. 🚀
+Olá! Eu sou o Samuel, Analista de Tecnologia com conhecimentos em redes e infraestrutura de TI, apaixonado por tecnologia e pelo desenvolvimento de software. Gosto de criar soluções que facilitem o dia a dia, transformando ideias em projetos funcionais, intuitivos e eficientes.<br><br>Estou sempre buscando aprender, aprimorar meus conhecimentos e explorar novas possibilidades na área de tecnologia. Encaro cada desafio como uma oportunidade de evoluir, adquirir novas habilidades e expandir meus conhecimentos.
 
 
 ## 🌐 Socials:
