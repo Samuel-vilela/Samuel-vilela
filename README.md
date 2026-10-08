@@ -1,115 +1,58 @@
+<h4 data-importer="text" align="left">💫 Sobre mim: Olá! Eu sou o Samuel, Analista de Tecnologia com conhecimentos em redes e infraestrutura de TI, apaixonado por tecnologia e pelo desenvolvimento de software. Gosto de criar soluções que facilitem o dia a dia, transformando ideias em projetos funcionais, intuitivos e eficientes.Estou sempre buscando aprender, aprimorar meus conhecimentos e explorar novas possibilidades na área de tecnologia. Encaro cada desafio como uma oportunidade de evoluir, adquirir novas habilidades e expandir meus conhecimentos.</h4>
 
+###
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=130&section=header&text=Victor%20Huggo&fontSize=40&fontColor=FFD700&fontAlignY=65&desc=TI%20%7C%20Back-end%20%7C%20Infraestrutura&descAlignY=85&descSize=16&descColor=c0a000"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=I+am+Vengeance.+I+am+the+Night.+I+am+Batman.;Técnico+em+Tecnologia+da+Informação;Estudante+de+Ciência+da+Computação;Foco+em+Back-end+e+Infraestrutura+de+TI" />
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/Samuel-vilela/Samuel-vilela/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Samuel-vilela/Samuel-vilela/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=kacho_ga&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
-<br/>
+###
 
-```
-██████╗  █████╗ ████████╗███╗   ███╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗╚══██╔══╝████╗ ████║██╔══██╗████╗  ██║
-██████╔╝███████║   ██║   ██╔████╔██║███████║██╔██╗ ██║
-██╔══██╗██╔══██║   ██║   ██║╚██╔╝██║██╔══██║██║╚██╗██║
-██████╔╝██║  ██║   ██║   ██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-  [ SISTEMA ATIVO ] — Gotham não dorme. Eu também não.
-```
+<img data-importer="image" align="left" height="160" src="https://c.tenor.com/6rNC9PLJB9YAAAAC/goku-jumping-goku.gif"  />
 
----
+###
 
-<img align="right" alt="Batman Coding" width="280" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
-
-## 🦇 `$ whoami`
-
-```yaml
-nome:      Victor Huggo
-função:    Técnico em TI | Dev Back-end
-base:      São Paulo, Brasil
-missão:    Evoluir em Back-end, Infraestrutura e Sistemas
-status:    "Sempre em campo."
-```
-
-Sou **Técnico em Tecnologia da Informação** com experiência prática em suporte técnico, infraestrutura e sistemas corporativos — e uma missão clara: resolver problemas antes que eles apareçam.
-
-Curso **Bacharelado em Ciência da Computação** pela Universidade Anhembi Morumbi, onde aprofundo lógica, programação e engenharia de software.
-
-Atuei em ambientes corporativos com suporte ao usuário, manutenção de infraestrutura e integração com ERP **TOTVS Protheus**. Meu foco é **Back-end**, **Infraestrutura** e **Desenvolvimento de Sistemas**.
-
-> *"It's not who I am underneath, but what I do that defines me."*
-
-<br/>
-
----
-
-## 🛠️ `$ ls ./arsenal/`
-
-###  Linguagens & Frameworks
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,mysql,html,css,javascript&theme=dark" />
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
-###  Ferramentas & Ambientes
+###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,bootstrap,figma,wordpress,arduino&theme=dark" />
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###  Estudando agora
+###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux&theme=dark" />
-</div>
+<br clear="both">
 
----
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samuel-vilela/Samuel-vilela/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samuel-vilela/Samuel-vilela/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Samuel-vilela/Samuel-vilela/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-## 📜 `$ cat ./certificacoes.txt`
-
-```
-[✔] WEX – Engenharia de Ponta a Ponta
-[✔] Introdução aos Fundamentos do Linux (RH104)
-[✔] Programação em C#
-[✔] Assistente de Desenvolvimento de Aplicativos Computacionais
-[✔] Lógica de Programação
-[✔] Arquitetura de Redes
-[✔] Gestão Empresarial com ERP
-```
-
----
-
-## 📊 `$ git log --stats`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ictor226&bg_color=0d0d0d&color=FFD700&line=c0a000&point=ffffff&area=true&hide_border=true&area_color=1a1a00"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ictor226&theme=radical&hide_border=false&background=0D0D0D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=888888" />
-</div>
-
-<br/>
-
----
-
-## 📡 `$ ping ./contato`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/huggoV226%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:huggoV226@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Victor%20Huggo-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/victor-huggo-2993a4280)
-[![GitHub](https://img.shields.io/badge/ictor226-0d0d0d?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/ictor226)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ictor226&color=FFD700&style=flat-square&label=Visitas+ao+perfil" alt="profile views" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=footer&text=The+Dark+Coder&fontSize=20&fontColor=FFD700&fontAlignY=65"/>
+###
