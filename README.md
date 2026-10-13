@@ -3,8 +3,9 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Samuel-vilela/Samuel-vilela/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Samuel-vilela/Samuel-vilela/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=kacho_ga&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-vilela&theme=react&show_icons=true&hide_border=true&count_private=true%22 alt="Samuel-vilela's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-vilela&theme=react&show_icons=true&hide_border=true&layout=compact%22 alt="Samuel-vilela's GitHub Stats" />
+
 </div>
 
 ###
