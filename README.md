@@ -11,7 +11,7 @@
       </p>
     </td>
     <td align="center" valign="middle" width="30%">
-      <img src="https://c.tenor.com/6rNC9PLJB9YAAAAC/goku-jumping-goku.gif" width="150" alt="Goku animation" />
+      <img src="https://c.tenor.com/6rNC9PLJB9YAAAAC/goku-jumping-goku.gif" width="350" alt="Goku animation" />
     </td>
   </tr>
 </table>
