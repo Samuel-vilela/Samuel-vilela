@@ -3,9 +3,10 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-vilela&theme=react&show_icons=true&hide_border=true&count_private=true%22 alt="Samuel-vilela's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-vilela&theme=react&show_icons=true&hide_border=true&layout=compact%22 alt="Samuel-vilela's GitHub Stats" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=Samuel-vilela&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-vilela&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ###
