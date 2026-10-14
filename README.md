@@ -5,7 +5,10 @@
 <div data-importer="stats" align="left">
 
 <p align="center">
+  <!-- Card de Estatísticas Gerais -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Samuel-vilela&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
+  
+  <!-- Card de Linguagens Mais Usadas -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Samuel-vilela&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 </div>
