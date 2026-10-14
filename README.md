@@ -1,61 +1,59 @@
-<h4 data-importer="text" align="left">💫 Sobre mim: Olá! Eu sou o Samuel, Analista de Tecnologia com conhecimentos em redes e infraestrutura de TI, apaixonado por tecnologia e pelo desenvolvimento de software. Gosto de criar soluções que facilitem o dia a dia, transformando ideias em projetos funcionais, intuitivos e eficientes.Estou sempre buscando aprender, aprimorar meus conhecimentos e explorar novas possibilidades na área de tecnologia. Encaro cada desafio como uma oportunidade de evoluir, adquirir novas habilidades e expandir meus conhecimentos.</h4>
+<h4 align="left">💫 Sobre mim</h4>
 
-###
+<p align="left">
+  Olá! Eu sou o <strong>Samuel</strong>, Analista de Tecnologia com conhecimentos em redes e infraestrutura de TI, apaixonado por tecnologia e pelo desenvolvimento de software. Gosto de criar soluções que facilitem o dia a dia, transformando ideias em projetos funcionais, intuitivos e eficientes.
+  <br><br>
+  Estou sempre buscando aprender, aprimorar meus conhecimentos e explorar novas possibilidades na área de tecnologia. Encaro cada desafio como uma oportunidade de evoluir, adquirir novas habilidades e expandir meus conhecimentos.
+</p>
 
-<div data-importer="stats" align="left">
+---
+<p align="right">
+  <img height="160" src="https://c.tenor.com/6rNC9PLJB9YAAAAC/goku-jumping-goku.gif" alt="Goku animation" />
+</p>
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Samuel-vilela&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Samuel-vilela&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" />
+  <!-- Card de Sequência de Commits (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-vilela&theme=radial&hide_border=true" alt="Sequência no GitHub" />
 </p>
-</div>
 
-###
+<p align="center">
+  <!-- Card de Linguagens e Métricas (Servidor Alternativo) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Samuel-vilela&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Samuel-vilela&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
-<img data-importer="image" align="left" height="160" src="https://c.tenor.com/6rNC9PLJB9YAAAAC/goku-jumping-goku.gif"  />
+---
 
-###
+### 🛠️ Tecnologias e Ferramentas
 
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,eclipse,linux,cs,react,wordpress,figma" alt="Minhas tecnologias" />
+</p>
 
-###
+---
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 🌐 Redes Sociais e Contato
 
-###
+<p align="left">
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<br clear="both">
+---
 
-<picture data-importer="pacman">
+### 🎮 Gráfico de Contribuições (Pacman)
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samuel-vilela/Samuel-vilela/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samuel-vilela/Samuel-vilela/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Samuel-vilela/Samuel-vilela/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
