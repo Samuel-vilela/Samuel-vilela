@@ -6,16 +6,16 @@
   Estou sempre buscando aprender, aprimorar meus conhecimentos e explorar novas possibilidades na área de tecnologia. Encaro cada desafio como uma oportunidade de evoluir, adquirir novas habilidades e expandir meus conhecimentos.
 </p>
 
----
-<p align="right">
-  <img height="160" src="https://c.tenor.com/6rNC9PLJB9YAAAAC/goku-jumping-goku.gif" alt="Goku animation" />
-</p>
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
   <!-- Card de Sequência de Commits (Streak Stats) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-vilela&theme=radial&hide_border=true" alt="Sequência no GitHub" />
+</p>
+
+<p align="right">
+  <img height="160" src="https://c.tenor.com/6rNC9PLJB9YAAAAC/goku-jumping-goku.gif" alt="Goku animation" />
 </p>
 
 <p align="center">
