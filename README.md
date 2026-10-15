@@ -45,7 +45,7 @@
 
 <p align="center">
   <!-- Cards de Estatísticas e Linguagens -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Samuel-vilela&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Samuel-vilela&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" color=E37124 />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Samuel-vilela&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
