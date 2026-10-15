@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td valign="top" width="70%">
-      <h3>💫 Sobre mim</h3>
+      <h3>💫 Samuel Vilela</h3>
       <p>
         Olá! Eu sou o <strong>Samuel</strong>, Analista de Tecnologia com conhecimentos em redes e infraestrutura de TI, apaixonado por tecnologia e pelo desenvolvimento de software. Gosto de criar soluções que facilitem o dia a dia, transformando ideias em projetos funcionais, intuitivos e eficientes.
       </p>
@@ -11,7 +11,7 @@
       </p>
     </td>
     <td align="center" valign="middle" width="30%">
-      <img src="https://c.tenor.com/6rNC9PLJB9YAAAAC/goku-jumping-goku.gif" width="150" alt="Goku animation" />
+      <img src="https://c.tenor.com/6rNC9PLJB9YAAAAC/goku-jumping-goku.gif" width="400" alt="Goku animation" />
     </td>
   </tr>
 </table>
