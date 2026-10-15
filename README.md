@@ -1,7 +1,7 @@
 <!-- Seção Sobre Mim + Imagem do Goku alinhada à direita -->
-<table border="0">
-  <tr>
-    <td valign="top" width="70%">
+<table style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td valign="top" width="70%" style="border: none; background: transparent;">
       <h3>💫 Samuel Vilela</h3>
       <p>
         Olá! Eu sou o <strong>Samuel</strong>, Analista de Tecnologia com conhecimentos em redes e infraestrutura de TI, apaixonado por tecnologia e pelo desenvolvimento de software. Gosto de criar soluções que facilitem o dia a dia, transformando ideias em projetos funcionais, intuitivos e eficientes.
