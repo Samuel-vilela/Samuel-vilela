@@ -1,3 +1,10 @@
+<!-- Banner com a imagem de código no topo -->
+<p align="center">
+  <img src="code.jpg" alt="Trecho de código PHP" width="100%" />
+</p>
+
+---
+
 <!-- Seção Sobre Mim + Imagem do Goku alinhada à direita -->
 <table border="0">
   <tr>
@@ -11,7 +18,7 @@
       </p>
     </td>
     <td align="center" valign="middle" width="30%">
-      <img src="https://c.tenor.com/6rNC9PLJB9YAAAAC/goku-jumping-goku.gif" width="350" alt="Goku animation" />
+      <img src="https://c.tenor.com/6rNC9PLJB9YAAAAC/goku-jumping-goku.gif" width="150" alt="Goku animation" />
     </td>
   </tr>
 </table>
