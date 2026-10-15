@@ -1,6 +1,6 @@
 <!-- Banner com a imagem de código no topo -->
 <p align="center">
-  <img src="code.jpg" alt="Trecho de código PHP" width="100%" />
+  <img src="code.png" alt="Trecho de código PHP" width="100%" />
 </p>
 
 ---
