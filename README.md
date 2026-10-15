@@ -1,10 +1,3 @@
-<!-- Banner com a imagem de código no topo -->
-<p align="center">
-  <img src="code.png" alt="Trecho de código PHP" width="100%" />
-</p>
-
----
-
 <!-- Seção Sobre Mim + Imagem do Goku alinhada à direita -->
 <table border="0">
   <tr>
@@ -22,6 +15,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="code.png" alt="Trecho de código PHP" width="100%" />
+</p>
 
 ---
 
