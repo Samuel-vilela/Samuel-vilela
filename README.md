@@ -22,13 +22,14 @@
 
 ---
 
-### 💻 Linguagens de Programação
+<p align="center"> 💻 Linguagens de Programação</p>
 
-<p align="left">
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs" alt="Linguagens de programação" />
 </p>
 
-### 🛠️ Ferramentas & Frameworks
+<p align="center">🛠️ Ferramentas & Frameworks</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,wordpress,figma,eclipse,linux" alt="Ferramentas e frameworks" />
