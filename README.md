@@ -30,7 +30,7 @@
 
 ### 🛠️ Ferramentas & Frameworks
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,wordpress,figma,eclipse,linux" alt="Ferramentas e frameworks" />
 </p>
 
